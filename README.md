@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 
-📫 How to reach me: www.linkedin.com/in/bartłomiej-witak
+📫 How to reach me: www.linkedin.com/in/bartłomiej-witak, or witak.bartlomiej@gmail.com
