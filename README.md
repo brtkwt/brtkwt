@@ -1,16 +1,10 @@
-##👋 Hi there, my name is Bartłomiej Witak and I'm aspiring software developer.
+## Hi there, my name is Bartłomiej Witak and I'm aspiring software developer.
 
-<!--
-**brtkwt/brtkwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⬇ # About me
 
-Here are some ideas to get you started:
+🏃 In my free time, I stay active. Depending on the season, I run and bike, or go to the gym.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+🌱 I'm aspiring to become a .NET developer but am also open to exploring other technologies. I'm seeking a job or internship.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that will help me get started in the field and gain hands on experience.
 
-
--->
-
-
-📫 How to reach me: www.linkedin.com/in/bartłomiej-witak, or witak.bartlomiej@gmail.com
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](www.linkedin.com/in/bartłomiej-witak), or witak.bartlomiej@gmail.com
