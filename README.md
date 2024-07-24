@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Hi there, my name is Bartłomiej Witak and I'm aspiring software developer.
 
 <!--
 **brtkwt/brtkwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
