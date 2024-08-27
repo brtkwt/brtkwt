@@ -2,7 +2,7 @@
 
 ###  &nbsp;&nbsp;About me 👇
 
-🌱 I'm aspiring to become a .NET developer but am also open to exploring other technologies. I'm currently seeking for a job or<br>
+🌱 I'm aspiring to become a .NET developer but am also open to exploring other technologies. I'm currently looking for a job or<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;internship, that will help me get started in the field and gain hands on experience.
 
 🏃 In my free time, I stay active. Depending on the season, I either run, ride a bike, or go to the gym.
